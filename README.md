@@ -14,23 +14,22 @@
 
 ## Skills
 
-- **기획**   - 서비스 기획 및 방향 설정, 정보 구조·화면 흐름 설계, 데이터 구조·ERD 설계, 3개 프로젝트 총괄 경험
-- **디자인** - UI·화면 흐름 설계, Illustrator·Photoshop 그래픽, 디자인 전공 + 실무 4년
-- **개발**   - Python, HTML/CSS, SQL, FastAPI 백엔드·React Native 앱 구현, 크롤링/데이터 전처리, Claude Code 기반 개발
+| 구분 | 한 줄 설명 |
+|:---:|:---|
+| **기획** | 서비스 기획 및 방향 설정, 정보 구조·화면 흐름 설계, 데이터 구조·ERD 설계, 3개 프로젝트 총괄 경험 |
+| **디자인** | UI·화면 흐름 설계, Illustrator·Photoshop 그래픽, 디자인 전공 + 실무 4년 |
+| **개발** | Python, HTML/CSS, SQL, FastAPI 백엔드·React Native 앱 구현, 크롤링/데이터 전처리, Claude Code 기반 개발 |
 
-**Toolbelt** : Python · JavaScript · HTML/CSS · SQL · PostgreSQL · FastAPI · React Native · Streamlit · Git · LangChain · RAG · Illustrator
-    <div  align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-          <br/></div>
-    </div>
+<br/>
+
+## Toolbelt
+
+| 구분 | 기술 스택 |
+|:---:|:---|
+| **개발** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> |
+| **프레임워크·AI** | <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-5A67D8?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/> |
+| **디자인** | <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> |
+| **협업** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square"/> <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/한글-0067AC?style=flat-square"/> |
 
 ## Career Journey
 
