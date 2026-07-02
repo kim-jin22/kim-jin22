@@ -20,8 +20,6 @@
 | **디자인** | UI·화면 흐름 설계, Illustrator·Photoshop 그래픽, 디자인 전공 + 실무 4년 |
 | **개발** | Python, HTML/CSS, SQL, FastAPI 백엔드·React Native 앱 구현, 크롤링/데이터 전처리, Claude Code 기반 개발 |
 
-<br/>
-
 ## Toolbelt
 
 | 구분 | 기술 스택 |
