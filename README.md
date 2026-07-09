@@ -8,7 +8,7 @@
 
 | 프로젝트 | 한 줄 소개 | 내 역할 | 기술 스택 |
 |---|---|---|---|
-| [Beauty Katchy](https://github.com/kim-jin22/beauty-katchy-portfolio) | K-뷰티 B2B AI 매칭 플랫폼 (5인 팀, Demo Day 최우수상) | PM/총괄 · 프론트엔드 직접 구현 · 백엔드 일부 기여 | React Native, FastAPI, LangChain |
+| [Beauty Katchy](https://github.com/kim-jin22/beauty-katchy) | K-뷰티 B2B AI 매칭 플랫폼 (5인 팀, Demo Day 최우수상) | PM/총괄 · 프론트엔드 직접 구현 · 백엔드 일부 기여 | React Native, FastAPI, LangChain |
 | [CL-IC](https://github.com/kim-jin22/cl-ic) | 공공데이터 기반 육아친화 주거지 추천 서비스 (팀명 CL-ICKER, 4인 팀) | PM/총괄 · C-LCI 지수 설계 · Streamlit 앱 직접 구현 | Python, Streamlit, Folium |
 | [알려DREAM](https://github.com/kim-jin22/allyeodream) | 자격증 시험 정보 + 중고 교재 거래 연계 DB (5인 팀) | 팀장 · 데이터 정제 · ERD 설계 · SQL 53개 중 19개 직접 작성 | Oracle SQL, ERwin |
 
