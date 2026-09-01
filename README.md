@@ -2,16 +2,17 @@
 
 문제를 **기획**하고, 화면을 **디자인**하고, **코드**로 직접 만듭니다.
 
-디자인·운영 현장에서 4년간 제품의 전 과정을 경험하며 기획 감각을 다졌고, AI 부트캠프(596시간)를 거치며 기획·데이터·개발을 하나의 흐름으로 다루는 방향으로 전환했습니다. 프론트엔드 개발과 기획/PM 두 방향으로 취업을 준비하며, 부트캠프에서 3개 팀 프로젝트를 팀장/PM으로 리드했습니다.
+디자인·운영 현장에서 4년간 제품의 전 과정을 경험하며 기획 감각을 다졌고, AI 부트캠프(596시간)를 거치며 기획·데이터·개발을 하나의 흐름으로 다루는 방향으로 전환했습니다. 기획/PM 방향으로 취업을 준비하며, 부트캠프에서 3개 팀 프로젝트를 팀장/PM으로 리드했습니다.
 
 ## Project
 
 | 프로젝트 | 한 줄 소개 | 내 역할 | 기술 스택 |
 |---|---|---|---|
+| [단체복 자동화 대시보드](https://kim-jin22.github.io/danchebok-automation/) | 단체복 B2B 커머스 반복 사고 7종을 게이트로 예방하는 인터랙티브 자동화 프로토타입 (개인 프로젝트) | 기획 · 설계 · 프론트엔드 단독 구현 | HTML/CSS/JS, Claude Code |
 | [Beauty Katchy](https://github.com/kim-jin22/beauty-katchy) | K-뷰티 B2B AI 매칭 플랫폼 (5인 팀, Demo Day 최우수상) | PM/총괄 · 프론트엔드 직접 구현 · 백엔드 일부 기여 | React Native, FastAPI, LangChain |
-| [CL-IC](https://github.com/kim-jin22/cl-ic) | 공공데이터 기반 육아친화 주거지 추천 서비스 (팀명 CL-ICKER, 4인 팀) | PM/총괄 · C-LCI 지수 설계 · Streamlit 앱 직접 구현 | Python, Streamlit, Folium |
+| [CL-IC](https://github.com/kim-jin22/cl-ic) | 공공데이터 기반 육아친화 주거지 추천 서비스 (4인 팀) | PM/총괄 · C-LCI 지수 설계 · Streamlit 앱 직접 구현 | Python, Streamlit, Folium |
 | [알려DREAM](https://github.com/kim-jin22/allyeodream) | 자격증 시험 정보 + 중고 교재 거래 연계 DB (5인 팀) | 팀장 · 데이터 정제 · ERD 설계 · SQL 53개 중 19개 직접 작성 | Oracle SQL, ERwin |
-| [단체복 자동화 대시보드](https://kim-jin22.github.io/danchebok-automation/) | 단체복 B2B 커머스 반복 사고 7종을 게이트로 예방하는 인터랙티브 자동화 프로토타입 (개인 프로젝트) | 기획·설계 · 프론트엔드 단독 구현 | HTML/CSS/JS, Claude Code |
+
 
 ## Skills
 
